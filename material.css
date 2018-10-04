@@ -1,0 +1,96 @@
+.mdl-layout__drawer-button i {
+    color: #2E75B6;
+}
+.drawer-separator {
+    height: 1px;
+    background-color: #dcdcdc;
+    margin: 8px 0;
+}
+
+.gradient-a1 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FEB692 10%, #EA5455 100%);
+}
+.gradient-a2 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FDEB71 10%, #F8D800 100%);
+}
+.gradient-a3 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #ABDCFF 10%, #0396FF 100%);
+}
+.gradient-a4 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%);
+}
+.gradient-a5 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #90F7EC 10%, #32CCBC 100%);
+}
+.gradient-a6 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FFF720 10%, #3CD500 100%);
+}
+.gradient-a7 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #EE9AE5 10%, #5961F9 100%);
+}
+
+.gradient-b1 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #E8D07A 10%, #5312D6 100%);
+}
+.gradient-b2 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #52E5E7 10%, #130CB7 100%);
+}
+.gradient-b3 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #F6CEEC 10%, #D939CD 100%);
+}
+.gradient-b4 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);
+}
+.gradient-b5 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #F1CA74 10%, #A64DB6 100%);
+}
+.gradient-b6 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FDD819 10%, #E80505 100%);
+}
+.gradient-b7 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #EECE13 10%, #B210FF 100%);
+}
+
+
+.gradient-c1 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FFDB01 10%, #0E197D 100%);
+}
+.gradient-c2 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FFD26F 10%, #3677FF 100%);
+}
+.gradient-c3 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #92FFC0 10%, #002661 100%);
+}
+.gradient-c4 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #EEAD92 10%, #6018DC 100%);
+}
+.gradient-c5 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FFF5C3 10%, #9452A5 100%);
+}
+.gradient-c6 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #FFF720 10%, #3CD500 100%);
+}
+.gradient-c7 {
+    flex: 1; height: 900px;
+    background-image: linear-gradient( 135deg, #3B2667 10%, #BC78EC 100%);
+}
